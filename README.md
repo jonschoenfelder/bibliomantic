@@ -1,4 +1,4 @@
-# {{ site.title | capitalize }}: An LIS Research Blog
+# Bibliomantic: An LIS Research Blog
 
 Bibliomantic is a research blog by Jon Schoenfelder to collect and share short pieces of writing on a range of library and information science topics. Here is a non-exhaustive list of such LIS topics:
 * Reference and Research Support
