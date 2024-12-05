@@ -6,4 +6,4 @@ author:
 description: "A research blog for Library and Infomation Science."
 
 #Build settings
-remote_theme: poole/poole
+remote_theme: jekyll/minima
