@@ -1,0 +1,9 @@
+# Site settings
+title: Bibliomantic
+author:
+ name: Jon Schoenfelder
+ email: jon.m.schoenfelder@gmail.com
+description: "A research blog for Library and Infomation Science."
+
+#Build settings
+remote_theme: poole/poole
