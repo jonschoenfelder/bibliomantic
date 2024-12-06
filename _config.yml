@@ -4,6 +4,11 @@ author:
  name: Jon Schoenfelder
  email: jon.m.schoenfelder@gmail.com
 description: "A research blog for Library and Infomation Science."
+baseurl: "/bibliomantic"
+url: "localhost:4000"
 
 #Build settings
 remote_theme: jekyll/minima
+gems:
+    jekyll-feed
+    jekyll-seo-tag
