@@ -12,3 +12,7 @@ remote_theme: jekyll/minima
 gems:
     jekyll-feed
     jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
